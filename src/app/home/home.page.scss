@@ -26,10 +26,12 @@
   text-decoration: none;
 }
 
-#foto_perfil {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-  margin-bottom: 20px;
-  margin-top: 20px;
+ion-card {
+  margin: 50px auto;
+  width: 90%;
+  max-width: 350px;
+}
+
+ion-card-content {
+  font-size: 18px;
 }
